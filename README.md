@@ -13,8 +13,8 @@ Android mobile application interface
 Fast, portable, and user-friendly system
 Technologies Used
 Android Studio
-Kotlin / Jetpack Compose
-Vosk Speech Recognition
+Kotlin 
+google api Speech Recognition
 Arduino Uno
 HC-05 Bluetooth Module
 Braille Printing Mechanism
